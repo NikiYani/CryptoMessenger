@@ -1,0 +1,105 @@
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csprojAssemblyReference.cache
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+C:\Users\skamp\source\repos\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csprojAssemblyReference.cache
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+H:\!УНИВЕР\Магистратура (2019-2021)\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+C:\Users\1\Desktop\4_Semestr\4 семестр\Архитектура, программное обеспечение и безопасность автоматизированных информационных систем (Кузовкин К.Н.)\Курсач\Задание\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+C:\Users\1\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+C:\Users\1\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+C:\Users\1\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csprojAssemblyReference.cache
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+C:\Users\nekit\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe.config
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.exe
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\EDSCSR.pdb
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\bin\Debug\OpenPop.dll
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.cache
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR_MarkupCompile.lref
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.g.resources
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.Properties.Resources.resources
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.csproj.CopyComplete
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.exe
+C:\Users\1\Desktop\Desktop\EDSCSR\EDSCSR\obj\Debug\EDSCSR.pdb
